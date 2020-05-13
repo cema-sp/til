@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Team Onboarding Engineers"
+title:  "Team Onboarding for Engineers"
 date:   2020-05-12 18:45:12 -0700
 categories: jekyll update
 ---
@@ -36,7 +36,7 @@ The field is still new for me but I've tried to put together some notes that mig
 
 ___
 
-Links
+**Links**
 
-- https://qz.com/work/1712534/how-to-create-a-good-onboarding-experience-for-new-hires/
-- https://github.com/ksindi/managers-playbook/blob/master/README.md#onboarding
+- [QZ](https://qz.com/work/1712534/how-to-create-a-good-onboarding-experience-for-new-hires/)
+- [managers-playbook](https://github.com/ksindi/managers-playbook/blob/master/README.md#onboarding)
