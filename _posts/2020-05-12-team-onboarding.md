@@ -6,8 +6,10 @@ categories: jekyll update
 ---
 
 Recently I've realized the importance of Team Onboarding.
+
 During my career, I've experienced various approaches to the process
 from just a brief intro to a week-long sequence of meetings and 1:1s.
+
 Currently being a Team Lead I believe it is crucial to have a formalized
 and a well-thought Onboarding process.
 Successful Onboarding sets the new Team member to the success
