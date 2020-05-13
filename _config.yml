@@ -4,19 +4,30 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Personal TIL Blog
-email: your-email@example.com
+title: TIL Blog
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal TIL (Today I Learned) Blog.
-  Author: **Semyon Pisarev**
-baseurl: "/til" # the subpath of your site, e.g. /blog
+  Personal TIL Blog by Semyon Pisarev.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cema-sp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+author: Semyon Pisarev
 github_username: cema-sp
+linkedin_username: spisarev
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
 # Exclude from processing.
 # The following items will not be processed, by default.
