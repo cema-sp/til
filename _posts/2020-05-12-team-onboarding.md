@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Team Onboarding for Engineers"
-date:   2020-05-12 18:45:12 -0700
-categories: jekyll update
+date:   2020-05-12
+categories: team, onboarding
 ---
 
 Recently I've realized the importance of Team Onboarding.
