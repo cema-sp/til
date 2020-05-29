@@ -20,6 +20,9 @@ Listing the terms I've selected to introduce for the Team
   typically defining the interactions between a User and a system to achieve a goal.
 - **Gateway** - an adapter between the application and a 3rd party API.
 
+![Clean Architecture]({{ site.url }}/assets/2020-05-22-clean-arch-01.jpg)
+![Clean Architecture]({{ site.url }}/assets/2020-05-22-clean-arch-02.png)
+
 ___
 
 **Links**
