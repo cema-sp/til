@@ -22,8 +22,8 @@ Listing the terms I've selected to introduce for the Team
 
 ![Clean Architecture]({{ site.url }}/assets/2020-05-22-clean-arch-01.jpg)
 ![Clean Architecture]({{ site.url }}/assets/2020-05-22-clean-arch-02.png)
-![Clean Architecture]({{ BASE_PATH }}/assets/2020-05-22-clean-arch-02.png)
-![Clean Architecture]({{ baseurl }}/assets/2020-05-22-clean-arch-02.png)
+![Clean Architecture]({{ site.BASE_PATH }}/assets/2020-05-22-clean-arch-02.png)
+![Clean Architecture]({{ site.baseurl }}/assets/2020-05-22-clean-arch-02.png)
 
 ___
 
